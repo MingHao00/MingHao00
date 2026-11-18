@@ -1,16 +1,16 @@
-## Hi there 👋
+# 黄俊皓
 
-<!--
-**MingHao00/MingHao00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+正朝向后端开发迈进，AI沉迷中......
 
-Here are some ideas to get you started:
+## 在做的事
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+寻找一份软件开发实习。
+
+## 在做的项目
+
+- [个人站点](https://github.com/MingHao00/portfolio)
+- [RAG 系统](https://github.com/MingHao00/Elder-Brain)
+
+## 联系我
+
+[1004601438@qq.com](mailto:1004601438@qq.com)
